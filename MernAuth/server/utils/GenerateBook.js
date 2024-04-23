@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
 dotenv.config()
 
-let oldKey = process.env.AWS_ACCESS_KEY_ID;
+let oldKey = process.env.OPENAI_KEY;
 
 import S3Upload2 from "./S3Upload.js";
 
