@@ -1,13 +1,13 @@
 <p><h1>StoryBook.ai</h1></p>
 <div align="center">
-<img src="imgs/pokedex.PNG" width="500px" >
+<img src="imgs/aidream1.PNG" width="500px" >
 
 <br/>
 
 <p align="center">
   An automatically generated story book with illustrations to answer children's questions. Uses OpenAI's api to create an educational children's book with illustrations. Operates as a full stack Vite application, utilizing JSWT timed session validation, image uploading with an AWS S3 bucket, and stores users' creations in a MongoDB cluster.
     </p>
-<img src="imgs/oakai.PNG" width="500px" >
+<img src="imgs/aidream2.PNG" width="500px" >
 </div>
 
 <!-- ABOUT THE PROJECT -->
