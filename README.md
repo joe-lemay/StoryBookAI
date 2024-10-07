@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  An automatically generated story book with illustrations to answer children's questions. Uses OpenAI's api to create an educational children's book with illustrations. Operates as a full stack Vite application, utilizing JSWT timed session validation, image uploading with an AWS S3 bucket, and stores users' creations in a MongoDB cluster.
+  An automatically generated story book with illustrations to answer children's questions. Uses OpenAI's API to create an educational children's book with illustrations. Operates as a full stack Vite application, utilizing JSWT timed session validation, image uploading with an AWS S3 bucket, and stores users' creations in a MongoDB cluster.
     </p>
 <img src="imgs/AiDream2.PNG" width="500px" >
 </div>
@@ -34,10 +34,10 @@ You will need:
      <li>npm run dev</li>
    </ul>
 5. In the server folder:
-<ul>
-  <li>npm install</li>
-  <li>npx nodemon</li>
-</ul>
+    <ul>
+      <li>npm install</li>
+      <li>npx nodemon</li>
+    </ul>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
